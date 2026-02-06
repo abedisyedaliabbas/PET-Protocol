@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log.bak
+*.com.bak
+
+# Large output files (optional - uncomment if you want to exclude)
+# *.fchk
+# *.log
+# *.out
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Results files (optional - uncomment if you want to exclude generated results)
+# results_*.xlsx
+# results_*.csv
+# *.xlsx
+# *.csv
